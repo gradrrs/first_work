@@ -1,0 +1,71 @@
+body {
+    font-family: 'JetBrains Mono', monospace;
+    background: #9370DB
+}
+
+.red{
+color:#ff5f56
+}
+.yellow{
+color:#FFFF00
+}
+.green{
+color:#32CD32
+}
+
+
+
+.terminal {
+    background-color: #263238;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin:150 50
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.button {
+    display: inline-block;
+    width: 11px;
+    height: 11px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+.button-red {
+    background-color: #ff5f56;
+}
+
+.button-yellow {
+    background-color: #ffbd2e;
+}
+
+.button-green {
+    background-color: #27c93f;
+}
+
+pre {
+    margin: 0;
+}
+
+code {
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+code span.tag {
+    color: #ff5370;
+}
+
+code span.attribute {
+    color: #ffcb6b;
+}
+
+code span.attribute-value {
+    color: #c3e88d;
+}
